@@ -1,4 +1,4 @@
-# Samples
+# Discoveries
 
 Collection of samples and code snippets exploring various tech stacks.
 
